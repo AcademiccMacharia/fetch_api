@@ -28,3 +28,11 @@ Using the jsonplaceholder API the following tasks seek to be accomplished:
  - Filter a Resource
  - Delete a Resource
  - Post a Resource
+
+ --------------
+
+ Feel free to reach out to me incase of any queries, comments or questions.
+
+ *Paso Coto, Vision Larga* 
+
+            Small Steps, Large Vision
